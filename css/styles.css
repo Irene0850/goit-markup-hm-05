@@ -653,6 +653,7 @@ address {
 }
 
 /* ===MODAL WINDOW==== */
+
 .modal-overlay {
   position: fixed;
   top: 0;
@@ -661,11 +662,11 @@ address {
   height: 100%;
 }
 
-/* .modal-overlay.btx {
+.modal-overlay.btx {
   opacity: 0;
   pointer-events: none;
   visibility: hidden;
-} */
+}
 
 .modal {
   position: absolute;
