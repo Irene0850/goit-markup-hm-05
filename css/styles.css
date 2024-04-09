@@ -708,7 +708,6 @@ address {
 .modal-button-close:focus {
   border: none;
   background-color: #404bbf;
-  fill: #fff;
 }
 
 .modal-close-icon {
@@ -771,7 +770,7 @@ address {
 }
 
 .modal-icon {
-  fill: #2e2f42;
+  fill: transparent;
   position: absolute;
   left: 16px;
   top: 50%;
